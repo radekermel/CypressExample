@@ -1,0 +1,8 @@
+/node_modules/
+/package-lock.json
+/yarn.lock
+/cypress/integration/examples/
+/cypress/fixtures/
+/cypress/support/
+/cypress/plugins/
+/.idea/
